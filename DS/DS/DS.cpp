@@ -74,19 +74,19 @@ int _tmain(int argc, _TCHAR* argv[])
 	/* Let us create two sorted linked lists to test
 	the functions
 	Created lists, a: 5->10->15,  b: 2->3->20 */
-	push(&a, 15);
+	/*push(&a, 15);
 	push(&a, 10);
 	push(&a, 5);
 
 	push(&b, 20);
 	push(&b, 3);
-	push(&b, 2);
+	push(&b, 2);*/
 
 	/* Remove duplicates from linked list */
-	res = SortedMerge(a, b);
+	//res = SortedMerge(a, b);
 
-	printf("Merged Linked List is: \n");
-	printList(res);
+	//printf("Merged Linked List is: \n");
+	//printList(res);
 
 	return 0;
 }
