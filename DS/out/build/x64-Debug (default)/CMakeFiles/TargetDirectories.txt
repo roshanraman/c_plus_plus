@@ -1,0 +1,5 @@
+C:/Practice/c_plus_plus/DS/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Practice/c_plus_plus/DS/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Practice/c_plus_plus/DS/out/build/x64-Debug (default)/DS/CMakeFiles/edit_cache.dir
+C:/Practice/c_plus_plus/DS/out/build/x64-Debug (default)/DS/CMakeFiles/DS.dir
+C:/Practice/c_plus_plus/DS/out/build/x64-Debug (default)/DS/CMakeFiles/rebuild_cache.dir
